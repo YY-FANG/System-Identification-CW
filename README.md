@@ -1,2 +1,2 @@
 # System-Identification-CW
-Imperial Collage London, System Identification, Coursework 2
+Imperial Collage London, System Identification, Coursework
